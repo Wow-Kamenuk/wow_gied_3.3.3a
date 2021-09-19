@@ -1,0 +1,28 @@
+body{
+background-image: url("../image/bac_registr.jpg");
+background-repeat: no-repeat; 
+background-size: 100%;
+background-position: center;
+background-attachment: fixed;
+background-color: black;
+}
+.register { 
+	position: relative;
+	top: 430px;
+	left:42%; 
+    width: 200px; 
+    background: #ccc;
+    padding: 5px;
+   
+    border: solid 1px black;
+    
+   }
+
+ p.text_login{
+ 	margin-bottom: 0px;
+ 	margin-top: 5px;
+ }
+
+ .voiti {
+ 	margin-top: 5px;
+ }
